@@ -1,0 +1,9 @@
+C:\Users\Francis Bui\Documents\Visual Studio 2010\Projects\Sprite Francis\Sprite Francis\bin\Debug\Sprite Francis.exe
+C:\Users\Francis Bui\Documents\Visual Studio 2010\Projects\Sprite Francis\Sprite Francis\bin\Debug\Sprite Francis.pdb
+C:\Users\Francis Bui\Documents\Visual Studio 2010\Projects\Sprite Francis\Sprite Francis\bin\Debug\Sprite Francis.xml
+C:\Users\Francis Bui\Documents\Visual Studio 2010\Projects\Sprite Francis\Sprite Francis\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Francis Bui\Documents\Visual Studio 2010\Projects\Sprite Francis\Sprite Francis\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Francis Bui\Documents\Visual Studio 2010\Projects\Sprite Francis\Sprite Francis\obj\x86\Debug\Sprite Francis.vbproj.GenerateResource.Cache
+C:\Users\Francis Bui\Documents\Visual Studio 2010\Projects\Sprite Francis\Sprite Francis\obj\x86\Debug\Sprite Francis.exe
+C:\Users\Francis Bui\Documents\Visual Studio 2010\Projects\Sprite Francis\Sprite Francis\obj\x86\Debug\Sprite Francis.xml
+C:\Users\Francis Bui\Documents\Visual Studio 2010\Projects\Sprite Francis\Sprite Francis\obj\x86\Debug\Sprite Francis.pdb
